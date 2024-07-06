@@ -8,7 +8,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 98vh;
     background: rgb(140,0,217);
     background: linear-gradient(90deg, rgba(140,0,217,1) 61%, rgba(241,0,255,1) 100%);
 }
@@ -90,7 +90,7 @@ body{
 
 @media only screen and (max-width: 768px){
     .calendarNav{
-        gap: 20px;
+        gap: 10px;
     }
 
     .weekdays{
