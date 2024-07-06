@@ -90,7 +90,7 @@ body{
 
 @media only screen and (max-width: 768px){
     .calendarNav{
-        gap: 10px;
+        gap: 30px;
     }
 
     .weekdays{
@@ -108,6 +108,9 @@ body{
         font-size: 14px;
         column-gap: 20px;
         row-gap: 30px;
+    }
+    .leftarr , .rightarr{
+        font-size: 22px;
     }
 }
 
