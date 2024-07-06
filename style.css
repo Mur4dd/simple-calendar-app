@@ -90,7 +90,7 @@ body{
 
 @media only screen and (max-width: 768px){
     .calendarNav{
-        gap: 30px;
+        gap: 20px;
     }
 
     .weekdays{
@@ -107,7 +107,7 @@ body{
         grid-template-rows: repeat(1 ,20px);
         font-size: 14px;
         column-gap: 20px;
-        row-gap: 40px;
+        row-gap: 30px;
     }
 }
 
